@@ -1,0 +1,16 @@
+C:\Coding\self-study-csharp\bin\Debug\net5.0\self-study-csharp.exe
+C:\Coding\self-study-csharp\bin\Debug\net5.0\self-study-csharp.deps.json
+C:\Coding\self-study-csharp\bin\Debug\net5.0\self-study-csharp.runtimeconfig.json
+C:\Coding\self-study-csharp\bin\Debug\net5.0\self-study-csharp.runtimeconfig.dev.json
+C:\Coding\self-study-csharp\bin\Debug\net5.0\self-study-csharp.dll
+C:\Coding\self-study-csharp\bin\Debug\net5.0\ref\self-study-csharp.dll
+C:\Coding\self-study-csharp\bin\Debug\net5.0\self-study-csharp.pdb
+C:\Coding\self-study-csharp\obj\Debug\net5.0\self-study-csharp.csproj.AssemblyReference.cache
+C:\Coding\self-study-csharp\obj\Debug\net5.0\self-study-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\self-study-csharp\obj\Debug\net5.0\self-study-csharp.AssemblyInfoInputs.cache
+C:\Coding\self-study-csharp\obj\Debug\net5.0\self-study-csharp.AssemblyInfo.cs
+C:\Coding\self-study-csharp\obj\Debug\net5.0\self-study-csharp.csproj.CoreCompileInputs.cache
+C:\Coding\self-study-csharp\obj\Debug\net5.0\self-study-csharp.dll
+C:\Coding\self-study-csharp\obj\Debug\net5.0\ref\self-study-csharp.dll
+C:\Coding\self-study-csharp\obj\Debug\net5.0\self-study-csharp.pdb
+C:\Coding\self-study-csharp\obj\Debug\net5.0\self-study-csharp.genruntimeconfig.cache
