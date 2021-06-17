@@ -18,8 +18,14 @@ namespace self_study_csharp
                 Console.WriteLine(part);
             }
             Console.WriteLine(x);
+            Console.WriteLine(MeterstoCentimeters(1));
             Console.WriteLine("I will use this repo to initially test out what I am learning then build out more complex projects as my skills advance!");
         } //end of statement block
+        static int MeterstoCentimeters(int meters)
+        {
+            int cm = meters*100;
+            return cm;
+        }
     }
     
 }
