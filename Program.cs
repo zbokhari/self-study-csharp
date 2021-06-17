@@ -6,7 +6,7 @@ namespace self_study_csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Zain's self-study in .NET 5 and C#9. I will use this repo to initially test out what I am learning then build out more complex projects as my skills advance!");
         }
     }
 }
