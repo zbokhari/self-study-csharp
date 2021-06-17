@@ -8,7 +8,8 @@ namespace self_study_csharp
     {
         static void Main(string[] args) //method
         { //beginning of statement block
-            List<string> stringList = new List<string>();
+            int x = 5*36; //basic integer multiplication
+            List<string> stringList = new List<string>(); //stringList test
             stringList.Add("Welcome to");
             stringList.Add("Zain's self-study");
             stringList.Add("in .NET 5 and C# 9.");
@@ -16,7 +17,9 @@ namespace self_study_csharp
             {
                 Console.WriteLine(part);
             }
+            Console.WriteLine(x);
             Console.WriteLine("I will use this repo to initially test out what I am learning then build out more complex projects as my skills advance!");
         } //end of statement block
     }
+    
 }
