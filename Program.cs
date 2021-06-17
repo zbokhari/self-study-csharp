@@ -1,7 +1,6 @@
 ﻿using System; // https://docs.microsoft.com/en-us/dotnet/api/system?view=net-5.0
-using System.Collections.Generic; //https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=net-5.0
-                                    //gives access to stringList
-
+using System.Collections.Generic; /* https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=net-5.0
+                                    gives access to stringList */
 namespace self_study_csharp
 {
     class Program
