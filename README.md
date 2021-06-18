@@ -13,3 +13,15 @@ add alias ascending async await by descending dynamic equals from get global gro
 int: − 231 to 231 − 1, 32 bits of memory
 variable: storage location for value
 value: an instance of a specific type
+
+Value types 
+Numeric: Signed integer (sbyte, short, int, long)
+Unsigned integer (byte, ushort, uint, ulong)
+Real number (float, double, decimal)
+Logical (bool)
+Character (char)
+
+Reference types 
+String (string) 
+Object (object)
+

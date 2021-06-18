@@ -26,5 +26,13 @@ namespace self_study_csharp
             return cm;
         }
     }
-    
+    // public class testConstructor
+    // {
+    //     int multiplier;
+        
+    //     public testConstructor (int unitmultiplier) //CONSTRUCTOR
+    //         {
+    //         multiplier = unitmultiplier;
+    //         }
+    // }   
 }

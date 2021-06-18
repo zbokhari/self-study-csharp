@@ -1,1 +1,5 @@
-toUpper() Uppercase for string
+.toString() ==> CONVERTS TO STRING
+.toCharArray() ==? CONVERTS TO CHARACTER ARRAY
+.toUpper() Uppercase for string
+.Contains() ==> looks for charac in a string
+.Replace() ==> replaces charac in string "a" with another charac "b"
